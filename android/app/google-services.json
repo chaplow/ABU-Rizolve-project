@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083030235019",
+    "project_id": "abu-rizolve-4a2a9",
+    "storage_bucket": "abu-rizolve-4a2a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083030235019:android:7fbb84ddfb6d79ef36718e",
+        "android_client_info": {
+          "package_name": "com.mando.abu_rizolve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083030235019-subhjpb48injevd971kqohb0dkoik8f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mando.abu_rizolve",
+            "certificate_hash": "943a2e639149b8397f205dbe33dff6002ec81de9"
+          }
+        },
+        {
+          "client_id": "1083030235019-59br48csrdlh7n5732li14ugah5o6q0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Zc919cC2D2VxOOv1Gt0rk5dBhftSX30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083030235019-59br48csrdlh7n5732li14ugah5o6q0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
